@@ -1,0 +1,11 @@
+framework module AzCore {
+  umbrella header "AzCore.h"
+
+  export *
+  module * { export * }
+}
+
+module AzCore.Swift {
+    header "AzCore-Swift.h"
+    requires objc
+}
