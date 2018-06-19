@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                  = 'AzCore'
-  s.version               = '1.0.12'
+  s.version               = '1.0.13'
   s.summary               = 'Core function for AzStack platform.'
   s.description           = <<-DESC
   AzStack is communication platform. This is the iOS sdk for AzStack.
